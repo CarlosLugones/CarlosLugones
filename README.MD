@@ -69,11 +69,6 @@ Click on this badge to see the technologies I use everyday.
  
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lugodev/my-stack)
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ### GitHub stats
 
 <!-- trophies -->
