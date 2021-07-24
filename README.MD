@@ -69,6 +69,23 @@ Click on this badge to see the technologies I use everyday.
  
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lugodev/my-stack)
 
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### GitHub stats
+
+<!-- trophies -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lugodev" alt="lugodev" /></a> </p>
+<!-- end trophies -->
+
+<!-- streaks -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lugodev&" alt="lugodev" /></p>
+<!--- end streaks -->
+
 ### Buy me a coffee
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X51FNRV)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=lugodev&label=Profile%20views&color=0e75b6&style=flat" alt="lugodev" /></p>
