@@ -54,14 +54,14 @@ These are my 10 life commandments:
 </a>
 
 <!-- vero -->
-<a href="https://vero.co/lugodev" target="blank">
+<!-- a href="https://vero.co/lugodev" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/vero.png" alt="Vero" height="30" width="30" />
-</a>
+</a -->
 
 <!-- angellist -->
-<a href="https://angel.co/u/lugodev" target="blank">
+<!-- a href="https://angel.co/u/lugodev" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/angellist.png" alt="AngelList" height="30" width="30" />
-</a>
+</a -->
 
 <!-- indiehackers -->
 <a href="https://indiehackers.com/lugodev" target="blank">
