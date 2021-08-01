@@ -63,6 +63,16 @@ These are my 10 life commandments:
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/angellist.png" alt="AngelList" height="30" width="30" />
 </a>
 
+<!-- indiehackers -->
+<a href="https://indiehackers.com/lugodev" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/indiehackers.png" alt="IndieHackers" height="30" width="30" />
+</a>
+
+<!-- buildinpublic -->
+<a href="https://buildinpublic.com/@lugodev" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/buildinpublic.png" alt="BuildInPublic" height="30" width="30" />
+</a>
+
 ### Tech stack
 
 Click on this badge to see the technologies I use everyday.
