@@ -22,6 +22,10 @@ These are my 10 life commandments:
 ### Projects/startups in production 🚀
 [YourLink](https://link.yourlink.club) ・ [CubaPod](https://cubapod.net) ・ [Ofendiditos.club](https://ofendiditos.club) ・ [Signatures](https://signatures.lugodev.com)
 
+### Do you need a VPN? 🔐
+
+[Check my VPN](https://t.me/LugodevVPNBot)
+
 ### Telegram bots in production 🚀
 [ForwarderBot](https://t.me/ForwarderGeniusBot) ・ [Reading List Bot](https://t.me/ToReadingListBot) ・ [CubaPodBot](https://t.me/CubaPodBot)
 
