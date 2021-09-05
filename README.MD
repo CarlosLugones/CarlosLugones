@@ -28,7 +28,7 @@ These are my 10 life commandments:
 
 ### Telegram bots in production 🚀
 
-All of my standalone Telegram bots have been deprecated in favor of [Reading List Bot](https://teleadm.in)
+All of my standalone Telegram bots have been deprecated in favor of [Teleadm.in](https://teleadm.in)
 
 There are, of course, bots that are part of my projects:
 [YourLinkClub_Bot](https://t.me/YourLinkClub_Bot) ・ [LugodevVPNBot](https://t.me/LugodevVPNBot) ・ [LugodevSupportBot](https://t.me/LugodevSupportBot) ・ [CubaPodBot](https://t.me/CubaPodBot)
