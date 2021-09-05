@@ -20,20 +20,26 @@ These are my 10 life commandments:
 - Don't carry absurd grudges, forgive yourself and others
 
 ### Projects/startups in production 🚀
-[YourLink](https://link.yourlink.club) ・ [CubaPod](https://cubapod.net) ・ [Ofendiditos.club](https://ofendiditos.club) ・ [Signatures](https://signatures.lugodev.com)
+[YourLink](https://link.yourlink.club) ・ [CubaPod](https://cubapod.net) ・ [Signatures](https://signatures.lugodev.com)
 
 ### Do you need a VPN? 🔐
 
 [Check my VPN](https://t.me/LugodevVPNBot)
 
 ### Telegram bots in production 🚀
-[ForwarderBot](https://t.me/ForwarderGeniusBot) ・ [Reading List Bot](https://t.me/ToReadingListBot) ・ [CubaPodBot](https://t.me/CubaPodBot)
+
+All of my standalone Telegram bots have been deprecated in favor of [Reading List Bot](https://teleadm.in)
+
+There are, of course, bots that are part of my projects:
+[YourLinkClub_Bot](https://t.me/YourLinkClub_Bot) ・ [LugodevVPNBot](https://t.me/LugodevVPNBot) ・ [LugodevSupportBot](https://t.me/LugodevSupportBot) ・ [CubaPodBot](https://t.me/CubaPodBot)
 
 ### Incoming projects/startups 👷‍♂️
-[Liduco](https://liduco.com) ・ [TelegramPost.xyz](https://telegrampost.xyz/)
+
+[Liduco](https://liduco.com) ・ [Teleadm.in](https://teleadm.in/)
 
 ### My stuff 📦
-[Website](https://lugodev.com) ・ [Blog](https://lugodev.medium.com) ・ [LMC Podcast](https://lugodev.com/lmc) ・ [Daily Podcast](https://lugodev.com/daily) ・ [Newsletter](https://newsletter.lugodev.com)
+
+[Website](https://lugodev.com) ・ [Blog](https://lugodev.medium.com) ・ [LMC Podcast](https://lugodev.com/lmc) ・ [Newsletter](https://newsletter.lugodev.com)
 
 ### Connect with me ❤️
 
@@ -56,11 +62,6 @@ These are my 10 life commandments:
 <a href="https://lugodev.com/in/linkedin" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/linkedin.png" alt="LinkedIn" height="30" width="30" />
 </a>
-
-<!-- vero -->
-<!-- a href="https://vero.co/lugodev" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/vero.png" alt="Vero" height="30" width="30" />
-</a -->
 
 <!-- angellist -->
 <!-- a href="https://angel.co/u/lugodev" target="blank">
