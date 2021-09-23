@@ -20,7 +20,7 @@ These are my 10 life commandments:
 - Don't carry absurd grudges, forgive yourself and others
 
 ### Projects/startups in production 🚀
-[YourLink](https://link.yourlink.club) ・ [CubaPod](https://cubapod.net) ・ [Signatures](https://signatures.lugodev.com)
+[YourLink](https://link.yourlink.club) ・ [CubaPod](https://cubapod.net)
 
 ### Do you need a VPN? 🔐
 
@@ -35,7 +35,7 @@ There are, of course, bots that are part of my projects:
 
 ### Incoming projects/startups 👷‍♂️
 
-[Liduco](https://liduco.com) ・ [Teleadm.in](https://teleadm.in/)
+[Liduco](https://liduco.com) ・ [Teleadm.in](https://teleadm.in/) ・ [JustShip](https://justship.to/)
 
 ### My stuff 📦
 
