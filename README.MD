@@ -1,16 +1,16 @@
 <!-- img src="https://github.com/lugodev/lugodev/raw/master/assets/cover.jpg" alt="Telegram" width="100%" /-->
 
 ### Who am I 🙌
-Creator of companies and projects, materializer of ideas. Software engineer, entrepreneur, communicator and artist.
+Startups maker. Podcaster, writer and criptoenthusiast. Teaching what I learn in my path, while boosting others' growth.
 
 ### What I do 💻
 I'm dedicated to creation. I'm continually creating something and I strive to make it useful. From companies, projects and software platforms. My passion is turning ideas into reality, ideas that change people's lives. In addition to all that, since it is not comfortable for me to do it in secret, I am learning to communicate my creation process, together with my teams. I tell you on my podcast, newsletter, blog and YouTube channel. I feel that telling what creators live and how the path is not so simple or predictable, it's something that is valuable to others.
 
 ### What I believe in 🧘
 These are my 10 life commandments:
-- Be radical
 - Do what you love
 - Embrace change
+- Be radical if required
 - Create useful things
 - Practice love and respect
 - Be grateful and stay positive
@@ -19,27 +19,17 @@ These are my 10 life commandments:
 - Observe yourself and your thoughts
 - Don't carry absurd grudges, forgive yourself and others
 
-### Projects/startups in production 🚀
-[YourLink](https://link.yourlink.club) ・ [CubaPod](https://cubapod.net)
+### Incoming projects/startups 👷‍♂️
+
+[Liduco](https://liduco.com) ・ [Teleadm.in](https://teleadm.in/) ・ [JustShip](https://justship.to/)
 
 ### Do you need a VPN? 🔐
 
 [Check my VPN](https://t.me/LugodevVPNBot)
 
-### Telegram bots in production 🚀
-
-All of my standalone Telegram bots have been deprecated in favor of [Teleadm.in](https://teleadm.in)
-
-There are, of course, bots that are part of my projects:
-[YourLinkClub_Bot](https://t.me/YourLinkClub_Bot) ・ [LugodevVPNBot](https://t.me/LugodevVPNBot) ・ [LugodevSupportBot](https://t.me/LugodevSupportBot) ・ [CubaPodBot](https://t.me/CubaPodBot)
-
-### Incoming projects/startups 👷‍♂️
-
-[Liduco](https://liduco.com) ・ [Teleadm.in](https://teleadm.in/) ・ [JustShip](https://justship.to/)
-
 ### My stuff 📦
 
-[Website](https://lugodev.com) ・ [Blog](https://lugodev.medium.com) ・ [LMC Podcast](https://lugodev.com/lmc) ・ [Newsletter](https://newsletter.lugodev.com)
+[Website](https://lugodev.com) ・ [Blog](https://lugodev.medium.com) ・ [LMC Podcast](https://lugodev.com/lmc) ・ [Newsletter](https://newsletter.lugodev.com) ・ [Store](https://lugodev.slyk.io)
 
 ### Connect with me ❤️
 
