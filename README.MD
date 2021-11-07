@@ -29,7 +29,7 @@ These are my 10 life commandments:
 
 ### My stuff 📦
 
-[Website](https://lugodev.com) ・ [Blog](https://lugodev.medium.com) ・ [LMC Podcast](https://lugodev.com/lmc) ・ [Newsletter](https://newsletter.lugodev.com) ・ [Store](https://lugodev.slyk.io)
+[Website](https://lugodev.com) ・ [Blog](https://blog.lugodev.com) ・ [Podcast](https://lugodev.com/lmc) ・ [Newsletter](https://newsletter.lugodev.com) ・ [Store](https://lugodev.slyk.io)
 
 ### Connect with me ❤️
 
