@@ -21,11 +21,15 @@ These are my 10 life commandments:
 
 ### Incoming projects/startups 👷‍♂️
 
-[Liduco](https://liduco.com) ・ [Teleadm.in](https://teleadm.in/) ・ [JustShip](https://justship.to/)
+[Teleadm.in](https://teleadm.in/) ・ [TelePay](https://telepay.cash/) ・ [JustShip](https://justship.to/)
+
+### Current startups
+
+[Liduco](https://liduco.com) ・ [PayNest](https://paynest.app/)
 
 ### Do you need a VPN? 🔐
 
-[Check my VPN](https://t.me/LugodevVPNBot)
+[Check my VPN](https://lugo.network)
 
 ### My stuff 📦
 
