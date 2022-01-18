@@ -25,11 +25,11 @@ These are my 10 life commandments:
 
 ### Current startups
 
-[Liduco](https://liduco.com) ・ [PayNest](https://paynest.app/)
+[Liduco](https://liduco.com) ・ [PayNest](https://paynest.app/) ・ [TootShot](https://tootshot.xyz/)
 
 ### Do you need a VPN? 🔐
 
-[Check my VPN](https://lugo.network)
+[Lugo.Network](https://lugo.network)
 
 ### My stuff 📦
 
