@@ -1,4 +1,4 @@
-<!-- img src="https://github.com/lugodev/lugodev/raw/master/assets/cover.jpg" alt="Telegram" width="100%" /-->
+<img src="https://github.com/lugodev/lugodev/raw/master/assets/cover.png" alt="Telegram" width="100%" />
 
 ### Who am I 🙌
 Startups maker. Podcaster, writer and criptoenthusiast. Teaching what I learn in my path, while boosting others' growth.
@@ -42,15 +42,30 @@ These are my 10 life commandments:
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/telegram.png" alt="Telegram" height="30" width="30" />
 </a>
 
+<!-- mastodon -->
+<a href="https://lugonials.social/@lugodev" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/mastodon.svg" alt="Mastodon" height="30" width="30" />
+</a>
+
 <!-- youtube -->
 <a href="https://youtube.com/c/CarlosLugones" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/youtube.png" alt="Youtube" height="30" width="30" />
 </a>
 
-<!-- indiehackers -->
-<a href="https://indiehackers.com/lugodev" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/indiehackers.png" alt="IndieHackers" height="30" width="30" />
+<!-- liduco -->
+<a href="https://liduco.com/lugodev" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/liduco.svg" alt="Liduco" height="30" width="30" />
 </a>
+
+<!-- showwcase -->
+<a href="https://liduco.com/showwcase" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/showwcase.svg" alt="Showwcase" height="30" width="30" />
+</a>
+
+<!-- indiehackers -->
+<!-- a href="https://indiehackers.com/lugodev" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/indiehackers.png" alt="IndieHackers" height="30" width="30" />
+</a-->
 
 ### Tech stack
 
