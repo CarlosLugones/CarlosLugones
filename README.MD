@@ -37,39 +37,19 @@ These are my 10 life commandments:
 
 ### Connect with me ❤️
 
-<!-- youtube -->
-<a href="https://youtube.com/c/CarlosLugones" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/youtube.png" alt="Youtube" height="30" width="30" />
-</a>
-
 <!-- telegram -->
 <a href="https://t.me/lugodev" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/telegram.png" alt="Telegram" height="30" width="30" />
 </a>
 
-<!-- twitter -->
-<a href="https://twitter.com/lugodev" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/twitter.png" alt="Twitter" height="30" width="30" />
+<!-- youtube -->
+<a href="https://youtube.com/c/CarlosLugones" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/youtube.png" alt="Youtube" height="30" width="30" />
 </a>
-
-<!-- linkedin -->
-<a href="https://lugodev.com/in/linkedin" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/linkedin.png" alt="LinkedIn" height="30" width="30" />
-</a>
-
-<!-- angellist -->
-<!-- a href="https://angel.co/u/lugodev" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/angellist.png" alt="AngelList" height="30" width="30" />
-</a -->
 
 <!-- indiehackers -->
 <a href="https://indiehackers.com/lugodev" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/indiehackers.png" alt="IndieHackers" height="30" width="30" />
-</a>
-
-<!-- buildinpublic -->
-<a href="https://buildinpublic.com/@lugodev" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/buildinpublic.png" alt="BuildInPublic" height="30" width="30" />
 </a>
 
 ### Tech stack
