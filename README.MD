@@ -67,12 +67,6 @@ These are my 10 life commandments:
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/indiehackers.png" alt="IndieHackers" height="30" width="30" />
 </a-->
 
-### Tech stack
-
-Click on this badge to see the technologies I use everyday.
- 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lugodev/my-stack)
-
 ### GitHub stats
 
 <!-- trophies -->
@@ -82,9 +76,5 @@ Click on this badge to see the technologies I use everyday.
 <!-- streaks -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lugodev&" alt="lugodev" /></p>
 <!--- end streaks -->
-
-### Buy me a coffee
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X51FNRV)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lugodev&label=Profile%20views&color=0e75b6&style=flat" alt="lugodev" /></p>
