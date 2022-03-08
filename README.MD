@@ -21,7 +21,7 @@ These are my 10 life commandments:
 
 ### Incoming projects/startups 👷‍♂️
 
-[Teleadm.in](https://teleadm.in/) ・ [TelePay](https://telepay.cash/) ・ [JustShip](https://justship.to/)
+[TelePay](https://telepay.cash/) ・ [Teleadm.in](https://teleadm.in/)
 
 ### Current startups
 
@@ -43,9 +43,9 @@ These are my 10 life commandments:
 </a>
 
 <!-- mastodon -->
-<a href="https://lugonials.social/@lugodev" target="blank">
+<!-- a href="https://lugonials.social/@lugodev" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/mastodon.svg" alt="Mastodon" height="30" width="30" />
-</a>
+</a-->
 
 <!-- youtube -->
 <a href="https://youtube.com/c/CarlosLugones" target="blank">
