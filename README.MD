@@ -21,11 +21,11 @@ These are my 10 life commandments:
 
 ### Incoming projects/startups 👷‍♂️
 
-[TelePay](https://telepay.cash/) ・ [Teleadm.in](https://teleadm.in/)
+[Teleadm.in](https://teleadm.in/)
 
 ### Current startups
 
-[Liduco](https://liduco.com) ・ [PayNest](https://paynest.app/) ・ [TootShot](https://tootshot.xyz/)
+[TelePay](https://telepay.cash/) ・ [Liduco](https://liduco.com) ・ [PayNest](https://paynest.app/) ・ [TootShot](https://tootshot.xyz/)
 
 ### Do you need a VPN? 🔐
 
